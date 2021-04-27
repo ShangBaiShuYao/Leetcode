@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-arithmetic/leetcode-arithmetic.iml" filepath="$PROJECT_DIR$/leetcode-arithmetic/leetcode-arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-database/leetcode-database.iml" filepath="$PROJECT_DIR$/leetcode-database/leetcode-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-multithreading/leetcode-multithreading.iml" filepath="$PROJECT_DIR$/leetcode-multithreading/leetcode-multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-shell/leetcode-shell.iml" filepath="$PROJECT_DIR$/leetcode-shell/leetcode-shell.iml" />
+    </modules>
+  </component>
+</project>
